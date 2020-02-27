@@ -10,7 +10,7 @@
 pkg install git
 pkg install python
 pip install Telethon==1.10.9
-git clone https://github.com/D34DBOY/Attcker-wolf.git
+git clone https://github.com/D34DBOY/Attcker-wolf
 cd Attcker-wolf
 python attack.py
 ```
